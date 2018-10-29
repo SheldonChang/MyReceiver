@@ -7,3 +7,7 @@ html, body {
     overflow: hidden;
     position: fixed;
 }
+
+.splash {
+  background-image: url(splash.jpg);
+}
